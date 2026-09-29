@@ -1,0 +1,2 @@
+i am practicing devops
+using git and vs code
